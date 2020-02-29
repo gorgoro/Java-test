@@ -8,9 +8,10 @@ public class Menu {
     public static void main (String[] args) throws IOException {
         while (true) {
             System.out.println("***MENU***");
-            System.out.println(
-                            "1.     Java foundamentals" + "\n" +
-                            "2.    Classes." + "\n");
+            System.out.println("1.    Java.foundamentals");
+            System.out.println("2.    Java.Classes.");
+//            System.out.println("3.    Java.CleanCode");
+            System.out.println("4.    Java.Collections.");
             System.out.println("########");
             System.out.print("->");
 
